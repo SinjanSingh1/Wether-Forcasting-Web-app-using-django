@@ -1,5 +1,5 @@
 # Wether-Forcasting-Web-app-using-django
-    Setup process: A simple way to initialize project in Django.
+  
 
 ## Requirements
 
