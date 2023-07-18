@@ -1,4 +1,4 @@
-# Wether-Forcasting-Web-app-using-django
+# Weather-Forcasting-Web-app-using-django
   
 
 ## Requirements
